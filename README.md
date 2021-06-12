@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sławek Skrzeczyński
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning HTML, CSS, JS, React, Node.js
+- 📸 I previously worked as a photographer
+- 🌱 I’m currently learning HTML, CSS, JS, React, Node.js at [Coders Lab](https://github.com/CodersLab)
 - 📫 You can reach me at slawomir.skrzeczynski@gmail.com
-
+- 💼 or at [linkdIn](https://www.linkedin.com/in/slawek-skrzeczynski/)
